@@ -13,24 +13,38 @@ I'm a passionate developer with a knack for turning complex problems into elegan
 
 ### 🛠️ Skills & Technologies
 
-#### Frontend
+#### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,astro,figma,angular" />
+    <img src="https://skillicons.dev/icons?i=js,ts" />
   </a>
 </p>
 
-#### Backend
+#### Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,docker,git,gitlab" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,laravel,express,tailwind,flutter,nextjs,nuxtjs,sass" />
+  </a>
+</p>
+
+#### Backend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,express,nodejs,php" />
   </a>
 </p>
 
 #### Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,sqlyog" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,supabase" />
+  </a>
+</p>
+
+#### Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,git,gitlab,aws,npm,figma,gcp,netlify,postman,pinia,powershell,wasm,vite" />
   </a>
 </p>
 
