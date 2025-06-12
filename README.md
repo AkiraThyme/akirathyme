@@ -1,12 +1,12 @@
 # Hi there, I'm Jerold 👋
 
-## A Full Stack Dev from Philippines
+## A Full Stack Dev from Philippines, crafting robust and user-friendly web applications.
 
-I'm a passionate developer who loves building innovative solutions and collaborating on exciting projects.
+I'm a passionate developer with a knack for turning complex problems into elegant, functional software. I enjoy bringing ideas to life, whether it's through personal projects or collaborative open-source contributions.
 
-- 🔭 I’m currently working on a cool project using React and Node.js.
-- 🌱 I’m currently learning about AI and Machine Learning.
-- 💬 Ask me about web development, open source, and tech communities.
+- 🔭 I’m currently developing **[PULSE](https://github.com/AkiraThyme/pulse-social)**, alongside other public and private repositories.
+- 🌱 I’m diving into the world of **Artificial Intelligence** and exploring its applications in modern software.
+- 💬 Ask me about **web development**, building REST APIs, or my journey into **open source**.
 - 📫 How to reach me: [jerold.arranzado30@gmail.com](mailto:jerold.arranzado30@gmail.com)
 
 ---
