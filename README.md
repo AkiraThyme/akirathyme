@@ -7,7 +7,7 @@ I'm a passionate developer who loves building innovative solutions and collabora
 - 🔭 I’m currently working on a cool project using React and Node.js.
 - 🌱 I’m currently learning about AI and Machine Learning.
 - 💬 Ask me about web development, open source, and tech communities.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [jerold.arranzado30@gmail.com](mailto:jerold.arranzado30@gmail.com)
 
 ---
 
