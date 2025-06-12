@@ -1,0 +1,59 @@
+# Hi there, I'm Jerold 👋
+
+## A Full Stack Dev from Philippines
+
+I'm a passionate developer who loves building innovative solutions and collaborating on exciting projects.
+
+- 🔭 I’m currently working on a cool project using React and Node.js.
+- 🌱 I’m currently learning about AI and Machine Learning.
+- 💬 Ask me about web development, open source, and tech communities.
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,astro,figma,angular" />
+  </a>
+</p>
+
+#### Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,docker,git,gitlab" />
+  </a>
+</p>
+
+#### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,sqlyog" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=AkiraThyme&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=AkiraThyme&show_icons=true&theme=tokyonight" />
+  </a>
+  <br/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraThyme&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraThyme&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+  <a href="https://dev.to/your-dev-account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="your-dev-account" height="30" width="40" /></a>
+</p>
