@@ -23,7 +23,7 @@ I'm a passionate developer with a knack for turning complex problems into elegan
 #### Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,laravel,express,tailwind,flutter,nextjs,nuxtjs,sass" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,laravel,tailwind,flutter,nextjs,nuxtjs,sass" />
   </a>
 </p>
 
